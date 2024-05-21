@@ -5,8 +5,7 @@ import java.util.ArrayList;
 /**
  * Implements a Binary Search Tree.
  *
- * @author your name here
- * @author David Brown
+ * @author Anastasia malinovski
  * @version 2021-07-05
  */
 public class BST<T extends Comparable<T>> {
