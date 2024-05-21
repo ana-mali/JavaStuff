@@ -11,8 +11,7 @@ import java.util.Scanner;
 /**
  * Main method and table generation methods for Assignment 4.
  *
- * @author your name here
- * @author David Brown
+ * @author Ana
  * @version 2021-07-05
  */
 public class A04Main {
