@@ -1,0 +1,7 @@
+Testing majorsMenu
+0:Computer Science,1:Psychology,2:Chemistry,3:Math,4:Business,5:Music,6:English,7:Basket Weaving,8:Women's Studies,9:History,10:Archaeology,
+----------------------------------------
+----------------------------------------
+Testing Student
+----------------------------------------
+Testing majorsListToNames
